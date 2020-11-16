@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "General purpose linked list"
+name = "linkedlist"
+optional = false
+python-versions = "*"
+version = "2.0.0"
+
+[metadata]
+content-hash = "edf167fa4d4163c43baa2bcf0f138cc6b9849eb462ee795d1968178f85f9baeb"
+python-versions = "^3.8"
+
+[metadata.files]
+linkedlist = [
+    {file = "linkedlist-2.0.0.tar.gz", hash = "sha256:eb0faa1ce12ccea42382b7286e4bbfb6d6e18850b33b349b97200cfdf3b059ac"},
+]
